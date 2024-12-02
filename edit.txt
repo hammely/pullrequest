@@ -1,2 +1,2 @@
-name:
-second_name:
+name: Lisa
+second_name: Fomina
